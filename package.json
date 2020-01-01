@@ -1,8 +1,11 @@
 {
-  "name": "Js-Algorithms",
+  "name": "js-algorithms",
   "version": "1.0.0",
-  "description": "Solving some algorithms from the internet using javascript",
+  "description": "Solving some algortithms in the internet ",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "ZAKA Salah Eddine",
-  "license": "MIT"
+  "license": "ISC"
 }
