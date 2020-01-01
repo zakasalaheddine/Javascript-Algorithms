@@ -1,0 +1,8 @@
+{
+  "name": "Js-Algorithms",
+  "version": "1.0.0",
+  "description": "Solving some algorithms from the internet using javascript",
+  "main": "index.js",
+  "author": "ZAKA Salah Eddine",
+  "license": "MIT"
+}
