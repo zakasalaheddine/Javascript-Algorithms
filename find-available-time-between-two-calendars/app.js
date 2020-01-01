@@ -76,7 +76,4 @@ const findAvailableTimes = (calendar1, boundary1, calendar2, boundary2) => {
     })
     return result;
 }
-console.log(generateFreeTime(person1Calendar, person1Boundary));
-console.log(generateFreeTime(person2Calendar, person2Boundary));
-
 console.log(findAvailableTimes(person1Calendar, person1Boundary, person2Calendar, person2Boundary))
